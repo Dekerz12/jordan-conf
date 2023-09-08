@@ -1,0 +1,190 @@
+{
+  "users": [
+    {
+      "email": "gg@gmail.com",
+      "password": "$2a$10$zKDGPb6y3d7e.yCY/Inn5e/MPYVgS4A7NaHQbMe6xoXdPK86Z0S8W",
+      "firstname": "Dan",
+      "lastname": "Sedrick",
+      "confirmpassword": "agik123",
+      "avatar": "https://ui-avatars.com/api/?name=Dan+Sedrick",
+      "id": 1
+    },
+    {
+      "email": "gg2@gmail.com",
+      "password": "$2a$10$dBcJZx3/Pv7CFcLqk.WuYei.yaMfVJ/V3dgD73itkENq0F3NWLHoO",
+      "first_name": "asdasd",
+      "last_name": "asdasdsad",
+      "avatar": "https://ui-avatars.com/api/?name=undefined+undefined",
+      "id": 2
+    },
+    {
+      "email": "aaaa@gmail.com",
+      "password": "$2a$10$BXgc/gOtR/zM45Fr9XJB1.QDI0BqiojX/BHO1cAcqB5q8BI3lWjRu",
+      "first_name": "Bret",
+      "last_name": "Puran",
+      "avatar": "https://ui-avatars.com/api/?name=undefined+undefined",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "name": "Dan Sedrick",
+      "avatar": "https://ui-avatars.com/api/?name=Dan+Sedrick",
+      "title": "Air Jordan 1 Design",
+      "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maxime, rerum.",
+      "imageURL": "https://izicop.com/cdn/shop/files/izicop_Air-Jordan-1-Mid-Split-Beach-Cherrywood-Red-Air-Jordan-1691857982398.png?v=1691857984",
+      "userId": 1,
+      "likedBy": [],
+      "id": 2
+    }
+  ],
+  "drafts": [
+    {
+      "title": "Untitled-a78c3608-cbaf-4570-a527-ba29d3a65899",
+      "model": "air-jordan-1",
+      "parts": [
+        {
+          "name": "Collar",
+          "color": "black"
+        },
+        {
+          "name": "Base",
+          "color": "black"
+        },
+        {
+          "name": "Base Skin Cap",
+          "color": "black"
+        },
+        {
+          "name": "Swoosh",
+          "color": "black"
+        },
+        {
+          "name": "Swoosh Outline",
+          "color": "black"
+        },
+        {
+          "name": "Laces",
+          "color": "black"
+        },
+        {
+          "name": "Plate",
+          "color": "black"
+        },
+        {
+          "name": "Cyclone",
+          "color": "black"
+        },
+        {
+          "name": "Heel",
+          "color": "black"
+        },
+        {
+          "name": "Label Personalization",
+          "color": "black"
+        }
+      ],
+      "userId": 1,
+      "imgUrl": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "id": 1
+    },
+    {
+      "title": "Untitled-a78c3608-cbaf-4570-a527-ba29d3a65899",
+      "model": "air-jordan-1",
+      "parts": [
+        {
+          "name": "Collar",
+          "color": "rgb(239, 68, 68)"
+        },
+        {
+          "name": "Base",
+          "color": "rgb(34, 197, 94)"
+        },
+        {
+          "name": "Base Skin Cap",
+          "color": "rgb(59, 130, 246)"
+        },
+        {
+          "name": "Swoosh",
+          "color": "rgb(236, 72, 153)"
+        },
+        {
+          "name": "Swoosh Outline",
+          "color": "rgb(107, 114, 128)"
+        },
+        {
+          "name": "Laces",
+          "color": "rgb(120, 113, 108)"
+        },
+        {
+          "name": "Plate",
+          "color": "rgb(249, 115, 22)"
+        },
+        {
+          "name": "Cyclone",
+          "color": "black"
+        },
+        {
+          "name": "Heel",
+          "color": "black"
+        },
+        {
+          "name": "Label Personalization",
+          "color": "black"
+        }
+      ],
+      "userId": 1,
+      "imgUrl": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "id": 2
+    },
+    {
+      "title": "Untitled-f918cc28-c4a1-41d9-9b7e-ba3bd787c667",
+      "model": "air-jordan-4",
+      "parts": [
+        {
+          "name": "Collar",
+          "color": "rgb(239, 68, 68)"
+        },
+        {
+          "name": "Base",
+          "color": "rgb(34, 197, 94)"
+        },
+        {
+          "name": "Base Skin Cap",
+          "color": "rgb(59, 130, 246)"
+        },
+        {
+          "name": "Swoosh",
+          "color": "black"
+        },
+        {
+          "name": "Swoosh Outline",
+          "color": "black"
+        },
+        {
+          "name": "Laces",
+          "color": "black"
+        },
+        {
+          "name": "Plate",
+          "color": "black"
+        },
+        {
+          "name": "Cyclone",
+          "color": "black"
+        },
+        {
+          "name": "Heel",
+          "color": "black"
+        },
+        {
+          "name": "Label Personalization",
+          "color": "black"
+        }
+      ],
+      "userId": 3,
+      "imgUrl": "https://t3.ftcdn.net/jpg/02/48/42/64/360_F_248426448_NVKLywWqArG2ADUxDq6QprtIzsF82dMF.jpg",
+      "id": 3
+    }
+  ]
+}
